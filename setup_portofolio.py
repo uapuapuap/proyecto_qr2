@@ -7,9 +7,9 @@ import qrcode
 # -------------------------------
 usuario_git = "uapuapuap"
 email_git = "pauamgrsm@gmail.com"
-repositorio_git = "https://github.com/uapuapuap/proyecto_qr1.git"
-carpeta_proyecto = r"C:\Users\Usuario\Desktop\Proyecto QR\01_CODIGO\PROYECTO_QR"
-url_portafolio = "https://uapuapuap.github.io/proyecto_qr1/"
+repositorio_git = "https://github.com/uapuapuap/proyecto_qr2.git"
+carpeta_proyecto = r"C:\Users\Usuario\Desktop\Proyecto QR\02_CODIGO\PROYECTO_QR"
+url_portafolio = "https://uapuapuap.github.io/proyecto_qr2/"
 mensaje_commit = "Actualizar HTML avanzado y regenerar QR"
 
 # -------------------------------
