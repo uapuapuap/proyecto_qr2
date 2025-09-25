@@ -1,7 +1,7 @@
 import qrcode
 
 # URL de tu portafolio
-url = "https://uapuapuap.github.io/proyecto_qr/"
+url = "https://uapuapuap.github.io/proyecto_qr1/"
 
 # Crear el QR
 img = qrcode.make(url)
